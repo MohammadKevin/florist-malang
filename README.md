@@ -18,9 +18,9 @@ A boutique e-commerce web platform for browsing, customizing, and ordering fresh
 ---
 
 ## ✨ Key Features
-- ⚡ **Curated flower arrangement catalog with occasion filters (Weddings, Graduations, Anniversaries)**: Curated flower arrangement catalog with occasion filters (Weddings, Graduations, Anniversaries)
-- ⚡ **Greeting card customization and delivery date scheduling**: Greeting card customization and delivery date scheduling
-- ⚡ **Direct WhatsApp checkout and order confirmation**: Direct WhatsApp checkout and order confirmation
+- Curated flower arrangement catalog with occasion filters (Weddings, Graduations, Anniversaries)
+- Greeting card customization and delivery date scheduling
+- Direct WhatsApp checkout and order confirmation
 
 ---
 
